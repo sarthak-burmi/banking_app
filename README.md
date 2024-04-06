@@ -1,16 +1,9 @@
 # banking_app
 
-A new Flutter project.
+Introducing PayWind UI: Your Ultimate Mobile Banking Solution! 📱💸 Track your monthly income and expenses 💸 effortlessly with intuitive graphs and text breakdowns. Say goodbye to hassle with our QR code payment method for small transactions and seamless bank-to-bank transfers. Experience banking like never before with our user-friendly UI 🏦 😃 !!
+FrameWork: Flutter
+Programming Language: Dart
+Code Editor: VS Code
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is the Screen Shot of the App UI
+![image](https://github.com/sarthak-burmi/banking_app/assets/87921529/56e1284f-e052-4186-8bb9-65542891ea61)
